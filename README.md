@@ -29,7 +29,9 @@ This project automates the backup process for AWS EC2 instances by periodically 
    - Grants Lambda the necessary permissions for EC2, S3, and CloudWatch interactions.
 
 ### Diagram
-*(Insert architecture diagram here)*
+![image](https://github.com/user-attachments/assets/9c751460-37e2-41b3-9595-d24a4c4f5f57)
+
+
 
 ---
 
